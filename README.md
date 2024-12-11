@@ -10,7 +10,7 @@
 
 - 🌱 **I’m constantly learning:** Frontend development best practices, UI/UX patterns, and system designs.
 - ⚡ **Passionate about:** Building intuitive and accessible user interfaces that feel effortless.
-- 💡 **Current Focus:** Deep diving into **React.js**, **Next.js**, **TypeScript**, and **Kubernetes** workflows.
+- 💡 **Current Focus:** Deep diving into **React.js**, **Next.js** and **TypeScript** workflows.
 - 🎨 **Design Mindset:** Collaborating with designers to create pixel-perfect interfaces.
 
 ---
